@@ -1,0 +1,16 @@
+#ImagenPersonaje{
+    width: 50%;
+    height: 40%;
+    margin-left:20%;
+}
+#comics{
+    background-color: rgba(1, 1, 66, 0.37);
+
+}
+h1,h2{
+    color: white;
+}
+p{
+    font: 20px bold;
+    color: aquamarine;
+}
